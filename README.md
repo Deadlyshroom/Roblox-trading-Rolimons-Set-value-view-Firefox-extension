@@ -8,7 +8,7 @@ To install the extension in Firefox:
 3. Set it to `false`.
 4. Open `about:addons`.
 5. Click the **gear icon** and select **Install Add-on From File...**
-6. Select the extension file (`.xpi`).
+6. Select the extension file (`.xpi or .zip`).
 7. Follow the prompts to complete the installation.
 
 Once the extension has been installed, you can set `xpinstall.signatures.required` back to `true` to restore Firefox's default security protection.
