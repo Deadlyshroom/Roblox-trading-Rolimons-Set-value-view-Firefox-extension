@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rolimon's Value Overlay — Settings</title>
+  <link rel="stylesheet" href="options.css">
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>Rolimon's Value Overlay</h1>
+      <p>Customize the colors used for item values and trade totals.</p>
+    </header>
+
+    <section class="card">
+      <h2>Item values</h2>
+      <div class="setting"><label for="valueText">Value text</label><input id="valueText" type="color"></div>
+      <div class="setting"><label for="valueBackground">Value background</label><input id="valueBackground" type="color"></div>
+      <div class="setting"><label for="valueBorder">Value border</label><input id="valueBorder" type="color"></div>
+    </section>
+
+    <section class="card">
+      <h2>Trade totals</h2>
+      <div class="setting"><label for="totalText">Total text</label><input id="totalText" type="color"></div>
+      <div class="setting"><label for="totalBackground">Total background</label><input id="totalBackground" type="color"></div>
+      <div class="setting"><label for="totalBorder">Total border</label><input id="totalBorder" type="color"></div>
+    </section>
+
+    <section class="card preview-card">
+      <h2>Preview</h2>
+      <div id="preview" class="preview">
+        <div class="preview-item"><span>VALUE</span><strong id="previewValue">125,000</strong></div>
+        <div class="preview-total"><span>Rolimon's Value · 4 items</span><strong id="previewTotal">486,500</strong></div>
+      </div>
+    </section>
+
+    <div class="actions">
+      <button id="reset" type="button" class="secondary">Reset defaults</button>
+      <span id="saved" role="status">Saved automatically</span>
+    </div>
+  </main>
+  <script src="options.js"></script>
+</body>
+</html>
