@@ -11,6 +11,6 @@ To install the extension in Firefox:
 6. Select the extension file (`.xpi or .zip`).
 7. Follow the prompts to complete the installation.
 
-Once the extension has been installed, you can set `xpinstall.signatures.required` back to `true` to restore Firefox's default security protection.
+Once the extension has been installed, you can set `xpinstall.signatures.required` back to `true` to restore Firefox's default security protection once you're done testing.
 
 > **Note:** Firefox normally requires extensions to be signed. Only disable signature verification when installing a trusted development or unsigned build.
