@@ -2,7 +2,7 @@ couldn't find a fully trusted firefox extension with these features for roblox t
 
 
 
-## Screenshots
+## Preview
 
 ![Screenshot 1](image1.PNG)
 
