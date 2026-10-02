@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Vividstar's Trading Extension",
-  "version": "1.0.14",
+  "version": "1.0.0",
   "description": "Shows, Rolimon's item values directly on Roblox trade pages, with customizable background and text colors and inbound notifications.",
   "icons": {
     "128": "icon.png"
@@ -39,7 +39,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "rolimons-set-value-overlay1@example.com",
+      "id": "rolimons-set-value-overlay2@example.com",
       "data_collection_permissions": {
         "required": [
           "websiteActivity"
