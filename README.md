@@ -8,7 +8,7 @@ couldn't find a fully trusted firefox extension with these features for roblox t
 
 ![Screenshot 2](image2.PNG)
 
-![Screenshot 2](image3.PNG)
+
 
 
 
