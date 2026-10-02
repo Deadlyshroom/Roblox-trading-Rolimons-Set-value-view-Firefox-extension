@@ -4,9 +4,9 @@ couldn't find a fully trusted firefox extension with these features for roblox t
 
 ## Preview
 
-![Screenshot 1](image1.PNG)
+![Screenshot 1](image1.png)
 
-![Screenshot 2](image2.PNG)
+![Screenshot 2](image2.png)
 
 
 
